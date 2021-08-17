@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108173530653",
+    "firebase_url": "https://chronos-db908.firebaseio.com",
+    "project_id": "chronos-db908",
+    "storage_bucket": "chronos-db908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108173530653:android:d2dbba076b7bdc8f6598f4",
+        "android_client_info": {
+          "package_name": "com.chronos.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108173530653-q8fhe0gg6nk97vbkgrs8u9ajoeduluoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCag9dh6wUAMXxQRtah-Fmu4DObVRQDusA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108173530653-q8fhe0gg6nk97vbkgrs8u9ajoeduluoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
