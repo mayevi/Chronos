@@ -1,3 +1,3 @@
 # Chronos
 
-### Esta aplicación de escritura de notas es un proyecto personal ya publicado en la PlayStore.
+### Esta aplicación de escritura de notas es un proyecto personal publicado en la PlayStore.
